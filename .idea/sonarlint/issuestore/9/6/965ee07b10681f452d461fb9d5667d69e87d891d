@@ -1,0 +1,9 @@
+
+}
+java:S1128"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(æèşŞøÿÿÿÿ8×şä”0
+
+java:S1128"dRemove this unused import 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration'.(¦–·Ë8³ÿˆä”0
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8–ªä”0
+Q
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8³ÿˆä”0

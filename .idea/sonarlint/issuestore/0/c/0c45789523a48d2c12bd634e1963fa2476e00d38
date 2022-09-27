@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ñ£ÿ
+o	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Öïë
+o	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Öïë
+o	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Öïë
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "strr".(ÉÂù‰
+?
+java:S1481")Remove this unused "strr" local variable.(ÉÂù‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àúÆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üëÇ¨
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD

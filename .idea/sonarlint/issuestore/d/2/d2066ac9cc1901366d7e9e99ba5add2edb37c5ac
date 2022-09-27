@@ -1,0 +1,25 @@
+
+m	java:S127A"XRefactor the code in order to not assign to this loop counter from within the loop body.(—Ä½Ú
+l	java:S127l"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó ”7
+g
+java:S2095^"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(úÓû‡ùÿÿÿÿ
+g
+java:S20953"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(úÓû‡ùÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(äìÎÆ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(“í¹Û
+J
+java:S1481W"/Remove this unused "inputLine2" local variable.(œÞ«»ýÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(äìÎÆ
+T
+java:S1117w"?Rename "kompetencje" which hides the field declared at line 24.(Ñ²Ñ&
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ôîÄâÿÿÿÿÿ
+?	java:S108¡")Either remove or fill this block of code.(À™ôõ
+]
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØŽúøÿÿÿÿ8‡ë³ï”0
+ƒ
+java:S1128	"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿ8ˆë³ï”0
+B
+java:S1068",Remove this unused "websites" private field.(›¨ä®
+E
+java:S1068"/Remove this unused "kompetencje" private field.(éÏÙ

@@ -1,0 +1,5 @@
+com\scraper\first\service\WebsiteService.class
+com\scraper\first\Controller\WebsitesController.class
+com\scraper\first\Model\Website.class
+com\scraper\first\ScraperSpringApplication.class
+com\scraper\first\repository\WebsitesRepository.class

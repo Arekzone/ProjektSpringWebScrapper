@@ -1,0 +1,7 @@
+#
+#Thu Jun 09 23:13:10 CEST 2022
+com.scraper.first.repository.WebsitesRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.scraper.first.service.WebsiteService=org.springframework.stereotype.Component
+com.scraper.first.Model.Website=javax.persistence.Entity
+com.scraper.first.ScraperSpringApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.scraper.first.Controller.WebsitesController=org.springframework.stereotype.Component
