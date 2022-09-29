@@ -137,9 +137,6 @@ public class WebsiteService {
         if (stringBuilder.toString().contains("SQL")) {
             asdsad.add("Sql");
         }
-        if (stringBuilder.toString().contains("chuuuuuj")) {
-            asdsad.add("chuuuj");
-        }
         if (stringBuilder.toString().contains("Team Player")) {
             asdsad.add("Team_player");
         }
